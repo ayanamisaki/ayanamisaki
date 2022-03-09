@@ -5,24 +5,23 @@
 #  🙋 Hello , this is  misaki👋
 :heartpulse:郁金香真的好漂亮啊！
 
-:tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip:
+:tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip::tulip:
 
 :cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom:
 
 :hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus:
 
-:blue_heart:有在努力成为一个优秀的大人
+:blue_heart:努力成为一个优秀的大人
 
-
+![avatar](/assets/k-on4.jpg)
 
 <div align="center"><img src="https://metrics.lecoq.io/ayanamisaki?template=classic&config.timezone=Asia%2FShanghai" alt="base metrics"/></div>
 
-<center class="third">
-    <img src="./assets/sanrio1.jpg" width="300">
-    <img src="./assets/sanrio2.jpg" width="300">
-    <img src="./assets/sanrio3.jpg" width="300">
-</center>
-
+![avatar](/assets/k-on1.jpg)
+![avatar](/assets/sanrio.png)
+![avatar](/assets/kirby1.jpg)
+![avatar](/assets/k-on3.jpg)
+![avatar](/assets/k-on5.jpg)
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanamisaki&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ayanamisaki" /> </div>
