@@ -11,7 +11,7 @@
 :hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus::hibiscus:
 
 
-努力成为一个优秀的大人！
+努力成为一个优秀的大人
 
 
 <div align="center"><img src="https://metrics.lecoq.io/ayanamisaki?template=classic&config.timezone=Asia%2FShanghai" alt="base metrics"/></div>
